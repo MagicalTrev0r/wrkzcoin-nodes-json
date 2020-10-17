@@ -42,6 +42,27 @@
       "ssl": false,
       "cache": false
     },
+     {
+      "name": "ch4os",
+      "url": "24.9.9.3",
+      "port": 39999,
+      "ssl": false,
+      "cache": false
+    },
+         {
+      "name": "cha0s",
+      "url": "45.32.188.108",
+      "port": 39999,
+      "ssl": false,
+      "cache": false
+    },
+         {
+      "name": "c|-|aos",
+      "url": "155.138.224.59",
+      "port": 39999,
+      "ssl": false,
+      "cache": false
+    },
     {
       "name": "Node Fin",
       "url": "node-fin.wrkz.work",
